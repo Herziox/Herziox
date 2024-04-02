@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Sergio Jiménez</h1>
-<h3 align="center">Computer Science Engineer - Data Scientist and AI developer</h3>
+<h3 align="center">Computer Science Engineer - Data Scientist and Data Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Herziox" alt="Herziox" /></a> </p>
 
